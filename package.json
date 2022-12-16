@@ -9,7 +9,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "agora-react-uikit": "^1.2.0",
+    "agora-rtc-sdk-ng": "^4.15.1"
   },
   "scripts": {
     "start": "react-scripts start",
